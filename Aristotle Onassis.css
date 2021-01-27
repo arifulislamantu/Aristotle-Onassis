@@ -1,0 +1,42 @@
+body{
+	margin-top:33px;
+	margin-left:50px;
+}
+.ek{
+	background-color:#ddd;
+	margin:33px 50px;
+}
+ul{
+	margin:auto 50px;
+}
+#fo{
+	margin:20px 40px;
+}
+#fa{
+	background-color:rgb(128,128,128);
+	border:0.5px solid black;
+	margin:auto 50px;
+}
+a{
+	color:blue;
+	text-decoration:none;
+}
+#img-circle{
+	clip-path:circle();
+}
+#font{
+	text-align:center;
+	size:25px;
+}
+#dui{
+	size:50px;
+}
+p{
+	margin:auto 50px;
+	border:0.5px solid black;
+}
+#to{
+	margin:auto 50px;
+	border:0.5px solid black;
+	border:all border;
+}
